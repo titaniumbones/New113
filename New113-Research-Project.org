@@ -1,0 +1,114 @@
+#+TITLE: NEW113 Research Project (2017)
+
+The Research Project will form the bulk of your work for the remainder of the semester. This project has three components: the proposal, the research paper and the digital presentation for the final Knowledge Fair
+on *March 30*. The proposal and research paper will be written individually. You will work in groups of 2-3 on the presentation, combining your research with the work of other students on similar topics to crate a single, unified presentation.
+
+|                | Date Due   | Date Returned            | Percentage |
+|----------------+------------+--------------------------+------------|
+| Proposal       | February 2 | February 18 *or earlier* |       20 % |
+| Research Paper | March 9    | March 16 *or earlier*    |        35% |
+| Presentation   | March 30   | N/A                      |        25% |
+
+* How it Works
+  :PROPERTIES:
+  :CUSTOM_ID: how-it-works
+  :END:
+
+In your research paper you will investigate one of the “problem areas”
+enumerated below. Some of these will have been covered in class; others
+are closely related to course materials. All of them are areas in which
+digital technologies and contemporary practices present *serious
+challenges* to the practice or idea of democracy. Your job will not be
+to write a comprehensive treatment of this problem, but to identify a
+*specific and manageable research question* within it, which you can
+address in a paper.
+
+Your final group presentation at the Knowledge Fair will be somewhat
+different. Having discussed *problems* in your papers, you will work in
+groups to design *interventions* that offer some degree of remedy to the
+problems you now thoroughly understand.
+
+* Topics
+  :PROPERTIES:
+  :CUSTOM_ID: topics
+  :END:
+
+ The provisional list of problem areas is as follows:
+
+1. Election Hacking
+2. Fake News
+3. Information Overload
+4. Echo Chambers
+5. Government Surveillance
+6. Oligopolies/Concentration of Wealth
+7. Attention Economies
+8. Censorship
+
+If you have a passionate interest in an area that falls outside of these
+boundaries, and wish to write your paper on that, please discuss this
+with me immediately.
+
+* Paper Content
+  :PROPERTIES:
+  :CUSTOM_ID: paper-content
+  :END:
+
+Your research goal is to fashion a compelling argument about a specific
+question that falls within your problem area. In order to do this you
+will have to:
+
+1. Understand the major issues at stake in your topic area
+2. Identify a specific question that you will address
+3. Answer that question in a compelling, well-written narrative that
+   makes your argument clear to the reader.
+
+You are faced, then, with several different kinds of task, /all of which
+you should by now be fairly well-equipped to undertake/. I will be
+available to help you at every stage of the process.
+
+* Proposal
+  :PROPERTIES:
+  :CUSTOM_ID: proposal
+  :END:
+
+Your proposal should be typed, double-spaced and no more than two pages
+long. It should show that you have already done enough research to have
+a good idea of the materials available and what your main /research
+topics/ will be, and it should include a provisional indication of the
+argument that you hope to make. It should be accompanied by an annotated
+bibliography of at least 5 sources. That means that for each source you
+should write three or four sentences explaining what the source says,
+why the source is useful for your research and the type of information
+you intend to draw from it (so, in order to construct the annotated
+bibliography you will have to /actually read the sources/). You should
+also include a provisional work schedule for completing the remaining
+stages of the project (completion of research, rough draft, and so
+forth).
+
+* Paper
+  :PROPERTIES:
+  :CUSTOM_ID: paper
+  :END:
+
+Your paper should be 10-12 double-spaced pages (~2500 words minimum). It
+should be clearly structured, with the citations and bibliography in a
+consistent format. While the content will vary from topic to topic, your
+paper should have a well-written and cogent argument.
+
+You might find that in the course of your research you wish to diverge
+from your submitted proposal. This is usually fine, but please contact
+me if that situation arises.
+
+* Presentation
+  :PROPERTIES:
+  :CUSTOM_ID: presentation
+  :END:
+
+The final presentation is a collaborative effort by all the students
+investigating one problem area (generally a group of 2 or 3). We will
+discuss presentation formats later in the term, but the *project *will
+be to mobilize your new understanding to propose an intervention that
+begins to address some aspect of the problem. The intervention may be
+technical (e.g., an app), social (e.g., a training program), or some
+combination. To help you get there, we will do a series of design and
+prototyping exercises in the final weeks of the course.

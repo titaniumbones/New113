@@ -1,0 +1,285 @@
+# -*- org-time-stamp-custom-formats: ("<%b %d:>" . "<%Y-%m-%d %H:%M>") -*-
+# Local Variables:
+# org-time-stamp-custom-formats: ("<%b %d:>" . "<%Y-%m-%d %H:%M>")
+# End:
+#+TITLE: New 113 Syllabus, Winter 2017
+#+DATE:
+#+AUTHOR:
+#+STARTUP: customtime
+#+OPTIONS: tex:t
+#+DESCRIPTION:
+#+KEYWORDS:
+#+SUBTITLE: "Technologies for Democracy"
+#+EMAIL: matt.price@utoronto.ca
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: tex:t
+#+ODT_STYLES_FILE: "/home/matt/.emacs.d/Templates/New113Syllabus.odt"
+#+DESCRIPTION:
+#+KEYWORDS:
+#+SUBTITLE:
+
+* Introduction
+NEW113 continues the social and cultural investigation of digital technologies begun in NEW103.  Each year, we choose a small number of themes to investigate in-depth together. This year, the class theme is "Technologies for Democracy." 
+
+There's a powerful argument that modern democratic thought emerged out of a /technological basis/ -- the cheap print culture of the 18th century. The technologies of that era are dying, and have been replaced by new media cultures. Are Twitter, Facebook, and Buzzfeed compatible with the dream of "rule by the people"? What do we even mean by "democracy"? What kinds of technologies -- and what kind of societies -- would we have to build to make a "real" democracy possible? The recent success of populist and anti-democratic factions in Europe, North America, and elsewhere has been greatly assisted by social media. If our problems are technological, does that mean the way to fix them is /also/ through technology?
+
+Most of your course assignments this term revolve around a research project. Each of you will assemble a research proposal and bibliography, and complete a mid-length research paper, studying one area in which technological development poses a problem for a democratic society. Then, for the end of term, you will work in small groups to propose a technology -- small or large -- designed to overcome the problems you described in your papers. Our class time will therefore be more focused on project work than it was in New103, or, indeed, than it normally has been in New113.   
+
+If you have taken NEW103, you will find that NEW113 is just a little bit more demanding, with slightly more reading and a more challenging class environment. If this is your first semester in New One, you may have a small amount of catching up to do, but you should find it pretty easy to get up to speed.
+* Logistics
+| *Instructor:*   | Matt Price                   |
+| *Email:*        | matt.price@utoronto.ca       |
+| *Office Hrs:*   | SS 3077 T 1:30-2:30          |
+| *Meeting Times* | WE 54G/WI 1701  Th 1:00-4:00 |
+* Course Work and Grading
+Detailed instructions for assignments, including assessment criteria, will be posted on Blackboard and discussed in class.  
+
+Please note: There is no final exam for this course. Your learning will be assessed throughout the semester via assignments, participation in the seminar, as well as brief reflective writing exercises in the Learning Lab (plenary sessions which involve all four New One classes).
+
+You will organize and write a research paper, and then take your results to create a born-digital group project for our year's-end knowledge fair. 
+
+| <34>                               |        <11> | <15>            | <9>       |
+| Description of Assignment          |  % of Grade | Word Length     | Due Date  |
+|------------------------------------+-------------+-----------------+-----------|
+| Paper Proposal/Bibliography        |          15 | 500-600 + Annotated Bibliography | Feb. 11   |
+| Final Paper                        |          35 | ~3000           | Mar. 2    |
+| Group Knowledge Fair Presentation  |          25 |                 | Mar. 30   |
+| Seminar Participation              |          10 | --              | --        |
+| Learning Labs                      |           5 | --              | --        |
+|------------------------------------+-------------+-----------------+-----------|
+| Total                              |          90 |                 |           |
+#+TBLFM: @7$2=vsum(@I..@II)
+
+* Academic and Other Supports For New One Students.
+
+*** Academic resources:
+
+Successful transition to university-level academic work involves taking
+care in this, your first year, to develop effective learning habits and
+necessary academic skills. New One, with its small classes and
+skills-building activities, is geared toward providing academic support
+and giving you opportunities to learn creatively as well as reflect on
+the ways in which you learn best, while at the same time challenging you
+intellectually.
+
+In addition, there are several New College, university-wide, and on-line
+resources available to support your academic development that build on
+whatever capacities and skills you already have at this point. For
+example, a good command of written English is essential for the
+completion of most university assignments. The Writing Centre can help
+you develop and clarify your ideas in clear language. It is also
+important to organize your ideas, build logical arguments and
+communicate them well. Again the Writing Centre instructors will work
+with you to develop you own skills in doing that.
+
+We strongly encourage you to take full advantage of these resources as
+early as you can in the term, so that you can reap the benefits right
+from the start of your undergraduate career.
+
+-  New College Writing Centre ::  You can make an appointment for one-on-one writing instruction as
+      you work on your assignments.   [[http://www.newcollege.utoronto.ca/academics/writing-centre/]]
+
+-  Writing at the University of Toronto :: This is a website with a range of resources to assist you as you
+      develop your writing skills.  [[http://www.writing.utoronto.ca/][http://www.writing.utoronto.ca/]]
+
+-  New College Library ::  Jeff Newman ([[mailto:Jeff.newman@utoronto.ca][Jeff.newman@utoronto.ca)]], the New College librarian, is available to help you figure out how to research your assignment topics and show you the information
+ management tools that will help you do that. There are computer terminals, printing facilities and individual and group study space in the library that can be booked for your use. [[http://www.newcollege.utoronto.ca/academics/new-college-academic-programs/d-g-ivey-library/][/http://www.newcollege.utoronto.ca/academics/new-college-academic-programs/d-g-ivey-library//]]
+
+-  English Language Learning ::  There are several services for students who are multilingual, or
+ wanting to improve their English speaking and writing. [[http://www.artsci.utoronto.ca/current/advising/ell]]
+
+*** Support for the transition to university
+
+There are several student services to support your general learning and
+transition to university life.
+[[http://www.artsci.utoronto.ca/current/advising/services][/http://www.artsci.utoronto.ca/current/advising/services/]]
+
+*** Accessibility
+
+Students with diverse learning styles and needs are welcome in this
+course. Students who require accommodation for documented
+health/disability issues should contact Accessibility Services as soon
+as possible at
+[[http://www.accessibility.utoronto.ca/][/http://www.accessibility.utoronto.ca//]],
+by phone at 416-978-8060 (TTY: 416-978-1902) or email at
+[[mailto:accessibility.services@utoronto.ca][/accessibility.services@utoronto.ca/]].
+
+
+* General Course Policies
+*** Attendance and class participation
+
+Full attendance and active participation in the weekly classes and
+Learning Lab plenary sessions is required. It counts toward your class
+participation grade. The 10% Learning Lab grade is based on your
+participation in plenary activities, and submission of responses to the
+events, activities and guest speakers.
+
+If you miss a class or Learning Lab session due to illness, a doctor's
+note may be requested. If you are ill, please email your instructor or
+the New One coordinator before the class or Learning Lab.
+
+*** Assignment submission
+
+Assignments are to be submitted electronically, on Blackboard and also via Dropbox Requests.
+
+Extensions are granted only for medical reasons, with a doctor's note.
+Penalty of 4% per day for late submission.
+
+If you are having difficulty on any assignment, please see me *before* the work is due to get support and/or visit the Writing Centre. There will be opportunities in class to discuss progress on assignments and to clarify any questions.
+
+*** Referencing style: APA
+
+All references in written work must be fully cited using the APA format.
+The following website is a useful style guide.
+[[https://owl.english.purdue.edu/owl/resource/560/01/][/https://owl.english.purdue.edu/owl/resource/560/01//]]
+
+*** Academic integrity and plagiarism.
+
+It is each student's responsibility to be aware of and take care not to
+violate the university policies on academic integrity. There are
+significant penalties for plagiarism and for submitting work that is not
+your own.
+
+The following is a useful resource:
+[[http://www.writing.utoronto.ca/advice/using-sources/how-not-to-plagiarize][/http://www.writing.utoronto.ca/advice/using-sources/how-not-to-plagiarize/]].
+There will be instruction and practice opportunities early on in the
+program, on how to properly read, reference, and cite text so that there
+is no chance of inadvertently plagiarizing. Visit the Writing Centre for
+further guidance.
+
+*** Copyright in Instructional Settings
+
+If you wish to tape-record, photograph, video-record or otherwise
+reproduce lecture presentations, course notes or other similar materials
+provided by instructors, you must obtain the instructor's written
+consent beforehand. Otherwise all such reproduction is an infringement
+of copyright and is absolutely prohibited. In the case of private use by
+students with disabilities, the instructor's consent will not be
+unreasonably withheld.
+
+*** Use of Electronic Devices in class.
+
+Laptops, cell phones, and tablets are in general not permitted in the
+classrooms or Learning Labs unless specifically required for the work
+being done in a particular session. (In such cases you will be informed
+ahead of time to bring your laptop). In addition to the distraction (to
+yourself and others) created by engaging with your devices in non-class
+related activity, research is showing that the use of laptops and other
+devices for taking notes is considerably less effective in retaining
+information and grasping key concepts than taking notes by hand.
+
+Please be prepared to put away your laptops and other devices when
+requested to do so. It will be assumed that you are not participating
+fully if you are consulting your devices
+*** Email response time:
+Response to email communication with the course instructors may take at
+least 48 hours. Please do not email with questions that are answered in
+the syllabus. It is best to ask your questions in class, for others in
+the class might equally be interested in the answers as well!
+
+* Course Themes and Outcomes
+The course is divided into three main blocks. In each, we explore one part of the course focus: History, Challenges, and Solutions
+
+*** Histories: The Techniques of Democracy (1-3)
+The idea of "rule by the people" is old, but the governmental forms that we now think of as "democratic" arose just two or three hundred years ago.  Where did modern ideas of "democracy" come from? Is there a relationship between democracy and technologies? If so, what is it? 
+*** Challenges: Democratic Breakdown
+
+*** Solutions: Reinvigorating the Process
+
+At the end of the course, you should:
+- [ ] Have a basic understanding of the history of democratic ideas
+- [ ] Be familiar with arguments about the relationships between politics and technology
+- [ ] Understand the major challenges that information technologies pose to democratic political order
+- [ ] Have the intellectual tools to imagine responses to those challenges
+- [ ] Be able to write a University-level research paper
+- [ ] Be familiar with basic principles of community-centered design
+
+* Weekly Schedule
+** <2017-01-05 Thu> Intro: Why Democracy? Enlightenment and the Democratic Ideal
+Introduction to the course, as well as some basic history of democratic ideas.
+*** COMMENT Lesson Plan
+- intro: why me, why this course, why this topic
+- Assignments
+- Lecture on Democracy
+ 
+**** Defining Democracy
+Democratic Ideal: history of an idea
+
+**** Enlightenment Switchboard
+
+**** Worst Possible System except for all the others 
+
+**** Moments of Crisis 
+
+**** Promise & Pitfalls
+
+*** Learning Lab: Engaged Research (WI1017, 3:00)
+** <2017-01-12 Thu> The Politics of Technology
+What does it mean to say that technologies are "political"? We'll explore some answers. 
+- Langdon Winner, "Do Artifacts have Politics"?"
+*** Learning Lab: Key Research Tools (WI1017, 1:10, Jeff Newman)
+** <2017-01-19 Thu>  From Print Media to the Broadcast Era
+50 years ago, the Philosopher Jürgen Habermas made a pivotal argument about the role of media in a democracy.  We'll explore a synopsis of his argument, and think about how it does or doesn't apply today.  *Please note:* thisi s /by far/ the most difficult reading of the term. We'll discuss how to go about reading it in the week before.  
+- Habermas, Jürgen, Sara Lennox, and Frank Lennox. “The Public Sphere: An Encyclopedia Article (1964).” /New German Critique/, no. 3 (1974): 49–55. http://www.jstor.org.myaccess.library.utoronto.ca/stable/487737
+
+*** Learning Lab: Preparing For Writing (WI1017, 1:10)
+** <2017-01-26 Thu> State Surveillance
+Surveillance has long been seen as a threat to democratic institutions.  In the Internet age, mass surveillance at the population level is much easier than it used to be. 
+- Deibert, Ronald. “The Growing Dark Side of Cyberspace (... and What To Do About It).” /Penn. St. JL & Int’l Aff./ 1 (2012): 260–390. https://goo.gl/AjW2pB. esp. *Section V*.
+- Glenn Greenwald, "The Harm of Surveillance" in /No Place to Hide/ (Toronto: Penguin, 2014), ch. 4.
+- “China Invents the Digital Totalitarian State.” /The Economist/, December 17, 2016. http://www.economist.com/news/briefing/21711902-worrying-implications-its-social-credit-project-china-invents-digital-totalitarian.
+*** NO Learning Lab
+** <2017-02-02 Thu> Censorship and Firewalls
+Like surveillance, censorship threatens free expression; it, too, has changed its shape in the Internet era.  
+- King, Gary, Jennifer Pan, and Margaret E. Roberts. “How Censorship in China Allows Government Criticism but Silences Collective Expression.” /American Political Science Review/, May 2013. https://goo.gl/ud8ANx.
+- Bill Marczak et al. “China’s Great Cannon.” /The Citizen Lab/, April 10, 2015. https://citizenlab.org/2015/04/chinas-great-cannon/.
+*** NO Learning Lab
+
+** <2017-02-09 Thu>  Filter Bubbles, Echo Chambers, and the Mind
+Are the psychological effects of Internet-mediated information debilitating?
+- Pariser, Eli. Beware Online “Filter Bubbles,” 2011. https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles.
+- Carr, Nicholas. “Is Google Making Us Stupid?” /The Atlantic/, August 2008. http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/6868/.
+
+*** Learning Lab: Organizing and Developing a Paper (in-class w/ Liz)
+** <2017-02-16 Thu> Capital and Plutocracy
+In a system where "the people" rule, inequality of wealth can have destabilizing effects.  Does the Internet accelerate these? 
+- “Inequality In The Internet Age.” Nathan Lustig, January 3, 2016. http://www.nathanlustig.com/2016/01/03/inequality-in-the-internet-age/.
+- Leonard, Andrew. “The Internet’s Greatest Disruptive Innovation: Inequality.” /Salon/. Accessed January 2, 2017. http://www.salon.com/2013/07/19/the_internets_greatest_disruptive_innovation_inequality/.
+- “Technology and Inequality. The Concentration of Wealth in the Digital Economy.” /CCCB LAB/. May 3, 2016. http://lab.cccb.org/en/technology-and-inequality-the-concentration-of-wealth-in-the-digital-economy/.
+*** Learning Lab: Perspective & Positionality (WI1017, 1:10, Jessica Taylor)
+** <2017-02-23 Thu> READING WEEK
+
+** <2017-03-02 Thu> Civic Technology
+How can we use technologies to improve our democracies?
+- “About Us – Civic Tech Toronto.” Accessed January 2, 2017. http://civictech.ca/about-us/.
+- Code for America. “Brigade 101: How to Hack Night · Code for America Blog Archive.” /Code for America/. Accessed January 2, 2017. https://www.codeforamerica.org/blog/2013/07/24/brigade-101-how-to-hack-night/.
+- Andrews, Tiffany. “#DataDrivenJustice: Partnering with the White House to Help Reduce Unnecessary Incarceration.” /Medium/, July 1, 2016. https://medium.com/code-for-america/datadrivenjustice-partnering-with-the-white-house-to-help-reduce-unnecessary-incarceration-ab75ed44e3bd.
+
+*** Learning Lab: Panel of Engaged Students (WI1017, 1:10-2:30)
+*** <2017-03-03 Fri> New One Writing Room
+** <2017-03-09 Thu> Encryption
+If surveillance and censorship are two of the main problems facing democratic governance, can encryption help solve the problem? Among other things, we'll do an encryption audit of our own practices. 
+- “Want a Security Starter Pack?” Surveillance Self-Defense, September 13, 2014. https://ssd.eff.org/en/playlist/want-security-starter-pack.
+- 2016, Micah LeeMicah LeeNovember 12, and 10:00 A.m. “Surveillance Self-Defense Against the Trump Administration.” The Intercept. Accessed January 2, 2017. https://theintercept.com/2016/11/12/surveillance-self-defense-against-the-trump-administration/.
+
+*** No Learning Lab
+** <2017-03-16 Thu> Open Data
+Can we make governments more accountable by making their data sources more accessible?
+- Tauberer, Joshua. "Applications for Open Government" /Open Government Data: The Book/. Accessed January 2, 2017. https://opengovdata.io/2014/applications/. *Choose one section of this chapter to read!*
+- Tauberer, Joshua. "Online and Free, Primary, Timely, Accessible (Principles 1--4)" /Open Government Data: The Book/. Accessed January 2, 2017. https://opengovdata.io/2014/online-free-primary-timely-accessible/.
+(feel free to browse)
+*** Learning Lab: Presenting your Research (WI1016, 1:10)
+** <2017-03-23 Thu> Accountability + Work Session 
+What does it take to hold government teck accountable to the people? 
+- Diakopoulos, Nicholas and Sorelle Friedler. “We Need to Hold Algorithms Accountable—here’s How to Do It.” /MIT Technology Review/. Accessed January 2, 2017. https://www.technologyreview.com/s/602933/how-to-hold-algorithms-accountable/.
+- John Boik, Lorenzo Fioramonti, and Gary Milante. “Rebooting Democracy.” /Foreign Policy/. Accessed January 2, 2017. https://foreignpolicy.com/2015/03/16/rebooting-democracy-participatory-reform-capitalism/.
+
+*** No Learning Lab
+** <2017-03-30 Thu> Knowledge Fair
+Your projects on display!!
+* COMMENT notes
+- [[http://search.library.utoronto.ca/details?5485927][DUnn, /setting the people free/]]
+- [[http://search.library.utoronto.ca/search?Ntx=mode%20matchallpartial&Ntk=Anywhere&N=0&Ntt=RUNCIMAN%2C%20DEMOCRACY&Nr=p_work_normalized:Runciman%20David%20confidence%20trap&uuid=0fab6037-850c-4b47-be52-1263d2d89ebf][Confidence Trap]]
+- 
