@@ -20,6 +20,7 @@
 #+KEYWORDS:
 #+SUBTITLE:
 
+[[file:///home/matt/.emacs.d/Templates/New113Syllabus.odt]]
 * Introduction
 NEW113 continues the social and cultural investigation of digital technologies begun in NEW103.  Each year, we choose a small number of themes to investigate in-depth together. This year, the class theme is "Technologies for Democracy." 
 
@@ -43,14 +44,14 @@ You will organize and write a research paper, and then take your results to crea
 | <34>                               |        <11> | <15>            | <9>       |
 | Description of Assignment          |  % of Grade | Word Length     | Due Date  |
 |------------------------------------+-------------+-----------------+-----------|
-| Paper Proposal/Bibliography        |          15 | 500-600 + Annotated Bibliography | Feb. 11   |
-| Final Paper                        |          35 | ~3000           | Mar. 2    |
-| Group Knowledge Fair Presentation  |          25 |                 | Mar. 30   |
+| Paper Proposal/Bibliography        |          21 | 500-600 + Annotated Bibliography | Feb. 11   |
+| Final Paper                        |          37 | ~3000           | Mar. 2    |
+| Group Knowledge Fair Presentation  |          27 |                 | Mar. 30   |
 | Seminar Participation              |          10 | --              | --        |
 | Learning Labs                      |           5 | --              | --        |
 |------------------------------------+-------------+-----------------+-----------|
-| Total                              |          90 |                 |           |
-#+TBLFM: @7$2=vsum(@I..@II)
+| Total                              |         100 |                 |           |
+#+TBLFM: @>$2=vsum(@I..@II)
 
 * Academic and Other Supports For New One Students.
 
