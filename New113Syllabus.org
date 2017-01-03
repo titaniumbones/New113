@@ -187,7 +187,7 @@ The idea of "rule by the people" is old, but the governmental forms that we now 
 While the advent of the Internet was hailed as a great triumph for both "democracy" and "freedom", recent events suggest that information technologies can present tremendous challenges to both governance and individual liberty.  In this part of the course, we explore some of these challenges.
 
 *** Solutions: Reinvigorating the Process
-Accepting thees challenges as real, can we nonetheless imagine ways to combat the problems we've spent the last section of the course discussing? 
+Accepting these challenges as real, can we nonetheless imagine ways to combat the problems we've spent the last section of the course discussing? 
 
 *** Learning Outcomes
 At the end of the course, you should:
