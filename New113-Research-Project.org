@@ -5,9 +5,9 @@ on *March 30*. The proposal and research paper will be written individually. You
 
 |                | Date Due   | Date Returned            | Percentage |
 |----------------+------------+--------------------------+------------|
-| Proposal       | February 2 | February 18 *or earlier* |       20 % |
-| Research Paper | March 9    | March 16 *or earlier*    |        35% |
-| Presentation   | March 30   | N/A                      |        25% |
+| Proposal       | February 2 | February 13 *or earlier* |        21% |
+| Research Paper | March 9    | March 16 *or earlier*    |        37% |
+| Presentation   | March 30   | N/A                      |        27% |
 
 * How it Works
   :PROPERTIES:
@@ -33,7 +33,7 @@ problems you now thoroughly understand.
   :CUSTOM_ID: topics
   :END:
 
- The provisional list of problem areas is as follows:
+The provisional list of problem areas is as follows:
 
 1. Election Hacking
 2. Fake News
@@ -47,6 +47,8 @@ problems you now thoroughly understand.
 If you have a passionate interest in an area that falls outside of these
 boundaries, and wish to write your paper on that, please discuss this
 with me immediately.
+
+*Please note:* these are /topic areas/, not specific research questions.  You'll be expected to formulate your own specific questions /within/ these areas. We'll discuss this process in more detail in class.  
 
 * Paper Content
   :PROPERTIES:

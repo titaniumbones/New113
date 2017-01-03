@@ -42,8 +42,8 @@ You will organize and write a research paper, and then take your results to crea
 | <34>                               |        <11> | <15>            | <9>       |
 | Description of Assignment          |  % of Grade | Word Length     | Due Date  |
 |------------------------------------+-------------+-----------------+-----------|
-| Paper Proposal/Bibliography        |          21 | 500-600 + Annotated Bibliography | Feb. 11   |
-| Final Paper                        |          37 | ~3000           | Mar. 2    |
+| Paper Proposal/Bibliography        |          21 | 500-600 + Annotated Bibliography | Feb. 2    |
+| Final Paper                        |          37 | ~3000           | Mar. 9    |
 | Group Knowledge Fair Presentation  |          27 |                 | Mar. 30   |
 | Seminar Participation              |          10 | --              | --        |
 | Learning Labs                      |           5 | --              | --        |
@@ -53,7 +53,7 @@ You will organize and write a research paper, and then take your results to crea
 
 * Academic and Other Supports For New One Students.
 
-*** Academic resources:
+*** Academic resources
 
 Successful transition to university-level academic work involves taking
 care in this, your first year, to develop effective learning habits and
@@ -77,17 +77,11 @@ We strongly encourage you to take full advantage of these resources as
 early as you can in the term, so that you can reap the benefits right
 from the start of your undergraduate career.
 
--  New College Writing Centre ::  You can make an appointment for one-on-one writing instruction as
-      you work on your assignments.   [[http://www.newcollege.utoronto.ca/academics/writing-centre/]]
+-  New College Writing Centre ::  You can make an appointment for one-on-one writing instruction as you work on your assignments.  [[http://www.newcollege.utoronto.ca/academics/writing-centre/]]
+-  Writing at the University of Toronto :: This is a website with a range of resources to assist you as you develop your writing skills. [[http://www.writing.utoronto.ca/][http://www.writing.utoronto.ca/]]
+-  New College Library ::  Jeff Newman ([[mailto:Jeff.newman@utoronto.ca][Jeff.newman@utoronto.ca)]], the New College librarian, is available to help you figure out how to research your assignment topics and show you the information management tools that will help you do that. There are computer terminals, printing facilities and individual and group study space in the library that can be booked for your use. [[http://www.newcollege.utoronto.ca/academics/new-college-academic-programs/d-g-ivey-library/][/http://www.newcollege.utoronto.ca/academics/new-college-academic-programs/d-g-ivey-library//]]
 
--  Writing at the University of Toronto :: This is a website with a range of resources to assist you as you
-      develop your writing skills.  [[http://www.writing.utoronto.ca/][http://www.writing.utoronto.ca/]]
-
--  New College Library ::  Jeff Newman ([[mailto:Jeff.newman@utoronto.ca][Jeff.newman@utoronto.ca)]], the New College librarian, is available to help you figure out how to research your assignment topics and show you the information
- management tools that will help you do that. There are computer terminals, printing facilities and individual and group study space in the library that can be booked for your use. [[http://www.newcollege.utoronto.ca/academics/new-college-academic-programs/d-g-ivey-library/][/http://www.newcollege.utoronto.ca/academics/new-college-academic-programs/d-g-ivey-library//]]
-
--  English Language Learning ::  There are several services for students who are multilingual, or
- wanting to improve their English speaking and writing. [[http://www.artsci.utoronto.ca/current/advising/ell]]
+-  English Language Learning ::  There are several services for students who are multilingual, or wanting to improve their English speaking and writing. [[http://www.artsci.utoronto.ca/current/advising/ell]]
 
 *** Support for the transition to university
 
@@ -129,10 +123,7 @@ Penalty of 4% per day for late submission.
 If you are having difficulty on any assignment, please see me *before* the work is due to get support and/or visit the Writing Centre. There will be opportunities in class to discuss progress on assignments and to clarify any questions.
 
 *** Referencing style: APA
-
-All references in written work must be fully cited using the APA format.
-The following website is a useful style guide.
-[[https://owl.english.purdue.edu/owl/resource/560/01/][/https://owl.english.purdue.edu/owl/resource/560/01//]]
+All references in written work must be fully cited using the APA format. The following website is a useful style guide. [[https://owl.english.purdue.edu/owl/resource/560/01/][https://owl.english.purdue.edu/owl/resource/560/01/]]. You will be learning how to use the [[http://www.zotero.org][Zotero]] reference management software, and you are *strongly* encouraged to use it when researching and writing your paper.  
 
 *** Academic integrity and plagiarism.
 
