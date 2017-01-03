@@ -6,6 +6,8 @@ While the first course in the sequence, NEW103, is fairly stable from year to ye
 I made a late-breaking decision this year to change the direction for the course in 2017. Our topic this year will be "Technologies for Democracy", and will critically examine the idea of democracy, lay out the challenges posed by contemporary information technologies to democratic traditions and institutions, and suggest types of interventions that might ameliorate those challenges.
 * This Repository
 This repository is part of a more general effort to move all of my course materials to text-based formats, and to keep them as open as possible for reuse by other instructors.  Since there are few lectures in this course, the repository contains only the syllabus and the course assignment (which is a single, scaffolded, research project).
+
+These materials are licensed [[https://creativecommons.org/licenses/by-nc/4.0/][Creative Commons Attribution-Share Alike]]
 * Generating documents in other formats
 I use Emacs and org-mode to write.  To create student-friendly rich-text document formats such as .odt and .pdf, I use org-mode's [[http://orgmode.org/manual/OpenDocument-Text-export.html#OpenDocument-Text-export][export features]].  Another option would be to use [[http://pandoc.org/demos.html][the incredibly powerful pandoc package]].  In either case, customizing ODT output takes a certain amount of work, and unfortunately customizations don't carry over from one system to the other.  I hope to some day put up a repo that makes it very easy to reproduce all of my formatting changes, but I haven't gotten around to that.  For now I'm afraid you'll have to experiment.  
 
